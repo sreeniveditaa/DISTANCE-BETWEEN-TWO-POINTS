@@ -15,5 +15,9 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 
 ### OUTPUT:
 
+![Screenshot 2024-08-26 102827](https://github.com/user-attachments/assets/cffd976a-15dd-46eb-b0e9-e5500c2f42cc)
+
+![Screenshot 2024-08-26 102827](https://github.com/user-attachments/assets/960d0d65-262c-4047-bed6-efd24de2c75b)
+
 
 ### RESULT:
